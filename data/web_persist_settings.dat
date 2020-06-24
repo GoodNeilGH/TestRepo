@@ -1,0 +1,19 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2020/06/10 07:28:27
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2020/06/10 07:31:22
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2020/06/10 07:32:08
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2020/06/10 07:39:14
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2020/06/23 13:00:53
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2020/06/23 13:07:30
+StartRecordingIsDst_6=0
+[UserHomePage]
+UserHomePage=about:blank
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1

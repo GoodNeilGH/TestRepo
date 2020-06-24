@@ -1,0 +1,10 @@
+[t5]
+FileName1=t5_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=83
+Total=2
+ContentType=text/html
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5f1.html
+URL2=http://16.43.99.60:1080/cgi-bin/welcome.pl?signOff=true
+FrameIndex2=0.1
+UseFrameIndex=1

@@ -1,0 +1,13 @@
+[t8]
+FileName1=t8_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=83
+Total=3
+ContentType=text/html
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t8f1f1.html
+URL2=http://16.43.99.60:1080/WebTours/home.html
+FrameIndex2=0.1.1
+UseFrameIndex=1
+FileName3=t8f1f0.html
+URL3=http://16.43.99.60:1080/cgi-bin/nav.pl?in=home
+FrameIndex3=0.1.0

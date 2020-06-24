@@ -1,0 +1,214 @@
+[API Trapper      (47cc: 63c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (5738:69f8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (2390:3980)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2390: 538)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2390: 538)] Load Network Traffic Analyzers:
+[Network Analyzer (2390: 538)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2390: 538)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2390: 538)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2390: 538)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2390: 538)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2390: 538)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2390: 538)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2390: 538)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2390:69a0)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Web Request      (2390:69a0)] "CONNECT clientservices.googleapis.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid:  1) Client -> Server @ : 254 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:69a0)]   (Sid:  1) Server -> Client : 39 bytes 
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (2390:69a0)] "HEAD http://aymidsvyp/"   
+[Network Analyzer (2390:69a0)]   (Sid:  2) Client -> Server @ : 243 bytes (Service=HTTP)
+[Web Request      (2390:69a0)] "HEAD http://cgnltseztyheqd/"   
+[Network Analyzer (2390:69a0)]   (Sid:  3) Client -> Server @ : 253 bytes (Service=HTTP)
+[Web Request      (2390:69a0)] "HEAD http://obkjbtxvwro/"   
+[Network Analyzer (2390:69a0)]   (Sid:  4) Client -> Server @ : 247 bytes (Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/WebTours/index.htm"   
+[Network Analyzer (2390:69a0)]   (Sid:  5) Client -> Server @ : 492 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:6414)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:69a0)]   (Sid:  5) Server -> Client : 675 bytes  (Service=HTTP)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2390:69a0)]   (Sid:  2) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (2390:69a0)]   (Sid:  3) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  4) Server -> Client : 184 bytes  (Service=HTTP)
+[Web Request      (2390:69a0)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid:  6) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (2390:69a0)]   (Sid:  4) Connection Terminated (by Server)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/WebTours/header.html"   
+[Network Analyzer (2390:69a0)]   (Sid:  5) Client -> Server @ : 547 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:69a0)]   (Sid:  6) Server -> Client : 39 bytes 
+[Network Analyzer (2390:69a0)]   (Sid:  5) Server -> Client : 1019 bytes  (Service=HTTP)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (2390:69a0)]   (Sid:  7) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Web Request      (2390:69a0)] "CONNECT www.googleapis.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid:  8) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (2390:69a0)] "CONNECT ssl.gstatic.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid:  9) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:69a0)]   (Sid:  8) Server -> Client : 39 bytes 
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  9) Server -> Client : 39 bytes 
+[Web Request      (2390:69a0)] "CONNECT ssl.gstatic.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid: 10) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (2390:6414)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390:5280)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (2390:69a0)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=83"   
+[Network Analyzer (2390:69a0)]   (Sid:  1) Client -> Server @ : 449 bytes (SSL)(Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/WebTours/images/hp_logo.png"   
+[Network Analyzer (2390:69a0)]   (Sid:  5) Client -> Server @ : 441 bytes (Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/WebTours/images/webtours.png"   
+[Network Analyzer (2390:69a0)]   (Sid:  7) Client -> Server @ : 470 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:69a0)]   (Sid:  5) Server -> Client : 910 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 10) Server -> Client : 39 bytes 
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 4498 bytes  (Service=HTTP)
+[Network Analyzer (2390:3f34)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2390:69a0)]   (Sid:  1) Server -> Client : 431 bytes (SSL) (Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2390:69a0)]   (Sid: 11) Client -> Server @ : 590 bytes (Service=HTTP)
+[Network Analyzer (2390:5280)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/WebTours/home.html"   
+[Network Analyzer (2390:69a0)]   (Sid:  7) Client -> Server @ : 586 bytes (Service=HTTP)
+[Network Analyzer (2390:3f34)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390:69a0)]   (Sid:  6) Client -> Server @ : 2581 bytes (SSL)(Service=HTTP)
+[Web Request      (2390:69a0)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (2390:69a0)]   (Sid:  6) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Web Request      (2390:69a0)] "POST /oauth2/v4/token"   
+[Network Analyzer (2390:69a0)]   (Sid:  8) Client -> Server @ : 664 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2390:4eac)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 331 bytes  (Service=HTTP)
+[Net An. Error    (2390:4eac)] SSLAccept(ssl_id = 2301500727840 = 00000217DC222220) Failed, ctx = 00000217DB541D00, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (2390:4eac)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2390:4af8)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (2390:4af8)] SSLAccept(ssl_id = 2301500709360 = 00000217DC21D9F0) Failed, ctx = 00000217DB541D00, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (2390:4af8)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2390:69a0)]   (Sid: 11) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 11) Server -> Client : 424 bytes  (Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/WebTours/images/mer_login.gif"   
+[Network Analyzer (2390:69a0)]   (Sid: 11) Client -> Server @ : 473 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  8) Server -> Client : 1049 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  8) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:69a0)]   (Sid: 11) Server -> Client : 988 bytes  (Service=HTTP)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (2390:69a0)] "CONNECT clients4.google.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid: 12) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:69a0)]   (Sid: 12) Server -> Client : 39 bytes 
+[Network Analyzer (2390:69a0)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (2390:69a0)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (2390:69a0)] "CONNECT content-autofill.googleapis.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid: 13) Client -> Server @ : 258 bytes (Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/favicon.ico"   
+[Network Analyzer (2390:69a0)]   (Sid: 11) Client -> Server @ : 451 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 13) Server -> Client : 39 bytes 
+[Network Analyzer (2390:656c)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:656c)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390:69a0)]   (Sid: 11) Server -> Client : 423 bytes  (Service=HTTP)
+[Web Request      (2390:69a0)] "POST /chrome-sync/command/?client=Google+Chrome&client_id=ahVZAt/C7dkMOvnIPG98gw%3D%3D"   
+[Network Analyzer (2390:69a0)]   (Sid: 12) Client -> Server @ : 1281 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2390:19cc)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:19cc)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[API Trapper      (5290:374c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Web Request      (2390:69a0)] "GET /v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIlCRIu3Bf5AtzgEgsN541ADhIAGgAiABILDc5BTHoSABoAIgAaAA==?alt=proto"   
+[Network Analyzer (2390:69a0)]   (Sid: 13) Client -> Server @ : 580 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 13) Server -> Client : 716 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (2390:69a0)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2390:69a0)]   (Sid: 11) Connection Terminated (by Server)
+[Web Request      (2390:69a0)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid: 14) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 14) Server -> Client : 39 bytes 
+[Network Analyzer (2390:2300)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:2300)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390:69a0)]   (Sid: 14) Client -> Server @ : 2581 bytes (SSL)(Service=HTTP)
+[Web Request      (2390:69a0)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (2390:69a0)]   (Sid: 14) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (2390:69a0)] "CONNECT mtalk.google.com:5228"   
+[Network Analyzer (2390:69a0)]   (Sid: 15) Client -> Server @ : 101 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (2390:69a0)]   (Sid: 15) Server -> Client : 39 bytes 
+[Network Analyzer (2390:4960)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:4960)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2390:69a0)]   (Sid: 15) Client -> Server @ : 155 bytes (SSL)
+[Web Request      (2390:69a0)] "CONNECT update.googleapis.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid: 16) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 16) Server -> Client : 39 bytes 
+[Network Analyzer (2390:69a0)]   (Sid: 15) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (2390:69a0)]   (Sid: 15) Server -> Client : 66 bytes (SSL)
+[Network Analyzer (2390:69a0)]   (Sid: 15) Server -> Client : 12 bytes (SSL)
+[Network Analyzer (2390:2da4)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:2da4)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390:69a0)]   (Sid: 16) Client -> Server @ : 1129 bytes (SSL)(Service=HTTP)
+[Web Request      (2390:69a0)] "POST /service/update2/json?cup2key=10:4184927899&cup2hreq=17cb6d82e53ca52a346493291100fb8e28820469c340079d3d184790cdb2985c"   
+[Network Analyzer (2390:69a0)]   (Sid: 16) Client -> Server @ : 4832 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 14) Server -> Client : 1407 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 14) Server -> Client : 422 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 14) Server -> Client : 108 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 14) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (2390:69a0)] "CONNECT www.googleapis.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid: 17) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 17) Server -> Client : 39 bytes 
+[Web Request      (2390:69a0)] "POST http://16.43.99.60:1080/cgi-bin/login.pl"   
+[Network Analyzer (2390:69a0)]   (Sid:  7) Client -> Server @ : 824 bytes (Service=HTTP)
+[Network Analyzer (2390:6b7c)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:6b7c)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 682 bytes  (Service=HTTP)
+[Web Request      (2390:69a0)] "POST /oauth2/v4/token"   
+[Network Analyzer (2390:69a0)]   (Sid: 17) Client -> Server @ : 615 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/cgi-bin/nav.pl?username=jojo&password="   
+[Network Analyzer (2390:69a0)]   (Sid:  7) Client -> Server @ : 591 bytes (Service=HTTP)
+[Web Request      (2390:69a0)] "GET http://16.43.99.60:1080/cgi-bin/error.pl?error=badPassword"   
+[Network Analyzer (2390:69a0)]   (Sid:  5) Client -> Server @ : 587 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 17) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 17) Server -> Client : 448 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 17) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2390: 538)] Address lookup for CNyinni01 = 169.254.59.69
+[Network Analyzer (2390: 538)] Request Connection: Remote Server @ 15.120.24.30:8080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 1340 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 423 bytes  (Service=HTTP)
+[Web Request      (2390:69a0)] "CONNECT oauthaccountmanager.googleapis.com:443"   
+[Network Analyzer (2390:69a0)]   (Sid: 18) Client -> Server @ : 264 bytes (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  7) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  5) Server -> Client : 1251 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2390:69a0)]   (Sid: 18) Server -> Client : 39 bytes 
+[Network Analyzer (2390:1258)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2390:1258)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2390:69a0)]   (Sid: 18) Client -> Server @ : 755 bytes (SSL)(Service=HTTP)
+[Web Request      (2390:69a0)] "POST /v1/issuetoken"   
+[Network Analyzer (2390:69a0)]   (Sid: 18) Client -> Server @ : 653 bytes (SSL)(Service=HTTP)
